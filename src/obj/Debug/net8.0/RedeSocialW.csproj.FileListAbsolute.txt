@@ -12,3 +12,4 @@ C:\Users\gabri\OneDrive\Desktop\RedeSocialW\src\obj\Debug\net8.0\refint\RedeSoci
 C:\Users\gabri\OneDrive\Desktop\RedeSocialW\src\obj\Debug\net8.0\RedeSocialW.pdb
 C:\Users\gabri\OneDrive\Desktop\RedeSocialW\src\obj\Debug\net8.0\RedeSocialW.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Desktop\RedeSocialW\src\obj\Debug\net8.0\ref\RedeSocialW.dll
+C:\Users\gabri\OneDrive\Desktop\RedeSocialW\src\obj\Debug\net8.0\RedeSocialW.sourcelink.json
