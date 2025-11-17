@@ -7,4 +7,4 @@ Como executar
 3. Execute: dotnet run
 
 Evidências
-Use a pasta evidencias para salvar os prints da execução.
+Use a pasta evidencias para salvar os prints da execução. 
